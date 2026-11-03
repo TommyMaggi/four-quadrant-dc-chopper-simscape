@@ -1,0 +1,43 @@
+# --- MATLAB / Simulink ---
+*.asv
+*.autosave
+*.slxc
+*.mexa64
+*.mexmaci64
+*.mexmaca64
+*.mexw64
+*.r20[0-9][0-9][ab]
+slprj/
+sccprj/
+codegen/
+*_ert_rtw/
+*_grt_rtw/
+*_rtw/
+*.slx.bak
+*.mdl.bak
+
+# --- TI C2000 / CCS build output ---
+*.obj
+*.o
+*.d
+*.out
+*.map
+*.hex
+*.lib
+*.mk
+*.bat
+*.dmr
+*.tmw
+*.tlc
+*.tlh
+*.dwo
+CCS_Project/
+CCS_Workspace/
+tmwinternal/
+xcp/
+
+# --- OS / editors ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

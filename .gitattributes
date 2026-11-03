@@ -1,0 +1,8 @@
+# MATLAB text files
+*.m      text diff=matlab
+# Binary MATLAB / Simulink files: no line-ending conversion, no textual diff
+*.slx    binary
+*.mat    binary
+*.mlx    binary
+*.pdf    binary
+*.png    binary
